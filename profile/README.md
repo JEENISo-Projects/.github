@@ -83,7 +83,7 @@
 ### Mechanical & Prototyping 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" />   
-<img style="margin: 10px" src="https://worldvectorlogo.com/download/logo-javascript.svg" alt="solide" height="25" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="solide" height="25" />   
 
   
   
