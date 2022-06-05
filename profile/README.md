@@ -34,6 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
@@ -79,10 +80,13 @@
 
 
 
-### Mechanical & Prototyping
+### Mechanical & Prototyping 
 <div align="center">  
-<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/rust-plain.svg](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1631505158/noticon/rzw47kgwbpugqh3vlumx.png)" alt="Solide" height="25" />  
- 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" />   
+<img style="margin: 10px" src="https://worldvectorlogo.com/fr/download/solidworks-logo-1.svg" alt="Blender" height="25" />   
+
+  
+  
 </div>
 
 </td></tr></table>  
