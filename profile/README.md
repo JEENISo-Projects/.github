@@ -84,11 +84,11 @@
 
 ### Mechanical & Prototyping 
 <div align="center">  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="50" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="30" />   
 <img style="margin: 10px" src="https://cdn-2.makershop.fr/6318-thickbox_default/ultimaker-cura.jpg" alt="cura" height="50" />   
-<img style="margin: 10px" src="https://www.atfiformation.fr/wp-content/uploads/2018/03/catiaV5.png" alt="catia" height="50" />   
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" alt="Autocad" height="50" />   
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" alt="Blender" height="50" />   
+<img style="margin: 10px" src="https://www.atfiformation.fr/wp-content/uploads/2018/03/catiaV5.png" alt="catia" height="30" />   
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" alt="Autocad" height="30" />   
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" alt="Blender" height="30" />   
 
   
   
