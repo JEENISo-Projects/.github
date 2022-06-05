@@ -79,9 +79,10 @@
 
 
 
-### Mechanical  
+### Mechanical & Prototyping
 <div align="center">  
-  
+<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/rust-plain.svg](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1631505158/noticon/rzw47kgwbpugqh3vlumx.png)" alt="Solide" height="25" />  
+ 
 </div>
 
 </td></tr></table>  
