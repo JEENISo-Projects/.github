@@ -83,7 +83,13 @@
 ### Mechanical & Prototyping 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" />   
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="solide" height="25" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="25" />   
+<img style="margin: 10px" src="https://en.wikipedia.org/wiki/Proteus_Design_Suite#/media/File:Proteus_Design_Suite_Atom_Logo.png" alt="ISIS" height="25" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="25" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="25" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="25" />   
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="solide" height="25" />   
+
 
   
   
